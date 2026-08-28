@@ -1,6 +1,6 @@
 ## Hi there, I'm Mikolaj! 👋
 
-I'm a first-year **Computer Science undergraduate at Durham University**, highly passionate about the intersection of robotics, engineering, and AI. I enjoy building dynamic systems, from scalable web servers to intelligent pathfinding algorithms in game engines.
+I'm a second year **Computer Science undergraduate at Durham University**, highly passionate about the intersection of robotics, engineering, and AI. I enjoy building dynamic systems, from scalable web servers to intelligent pathfinding algorithms in game engines.
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C#, Python, HTML/CSS
